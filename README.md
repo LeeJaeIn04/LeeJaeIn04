@@ -164,6 +164,10 @@
 <table>
 <tr>
 <td align="center" width="33%">
+<img src="https://devicons.io/devicons/icons/aws-ec2.svg" height="40" alt="AWS EC2"/><br/>
+<sub>AWS EC2</sub>
+</td>
+<td align="center" width="33%">
 <img src="https://devicons.io/devicons/icons/aws-s3.svg" height="40" alt="AWS S3"/><br/>
 <sub>AWS S3</sub>
 </td>
