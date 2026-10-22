@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🖥️ Collaborate
 
-<!--
-**LeeJaeIn04/LeeJaeIn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,notion,figma,discord,vscode,postman" />
+</p>
 
-Here are some ideas to get you started:
+## 💡 Language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css,dart,kotlin" />
+</p>
+
+## 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda" />
+</p>
+
+## 🔐 Back-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,mysql,postgres,docker,aws,firebase" />
+</p>
+
+## 🎨 Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter" />
+</p>
